@@ -44,6 +44,8 @@ public class TestCase extends BaseTest {
         searchBoxPage.searchIstanbulClick();
         searchBoxPage.DateClick();
         //searchBoxPage.searchTamamClick();
+        System.out.println("New Branch Fixes");
+
 
 
 
